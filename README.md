@@ -17,7 +17,6 @@ The **Content Analysis Dashboard** is a project designed to track, analyze, and 
 - **TMDB API**: Used to fetch additional movie and TV show details.
 - **Pandas**: Used for data manipulation and analysis.
 - **Power BI**: For creating interactive and dynamic dashboards.
-- **Streamlit**: Front-end for showcasing the dashboard (if applicable).
 
 
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
