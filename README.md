@@ -19,7 +19,7 @@ The **Content Analysis Dashboard** is a project designed to track, analyze, and 
 - **Power BI**: For creating interactive and dynamic dashboards.
 - **Streamlit**: Front-end for showcasing the dashboard (if applicable).
 
-## Visuals
+
 ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
 ![TMDB Logo](https://www.themoviedb.org/assets/2/v4/logos/268x0-powered-by-square-blue-dark-2b4e04b1d262cb992b6650fe3a633145a36c917ff22a35d1db0e46c4c381c21d.png)
 
